@@ -1537,7 +1537,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Sandrina Pereira
 
 - [@a_sandrina_p](https://twitter.com/a_sandrina_p)
-- [sandrina-p.net]([http://janjanjan.uk](https://sandrina-p.net/))
+- [sandrina-p.net]([https://www.sandrina-p.net/](https://sandrina-p.net/)
 - [LinkedIn](https://www.linkedin.com/in/sandrina-p/)
 - Topics - React, Accessibility, React, Remote async culture
 - Location - Portugal (will travel nationally and internationally)
